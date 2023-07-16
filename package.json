@@ -5,15 +5,15 @@
   "version": "1.0.0",
   "author": "William McGonagle <mcgonaglew@fairfieldprogramming.org>",
   "dependencies": {
-    "gatsby": "4.25.1",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-image": "^2.25.0",
     "gatsby-plugin-manifest": "^4.25.0",
     "gatsby-plugin-robots-txt": "^1.7.0",
     "gatsby-plugin-sharp": "^4.25.0",
     "gatsby-plugin-sitemap": "^5.25.0",
-    "gatsby-remark-classes": "^1.0.2",
+    "gatsby-remark-classes": "^0.1.2",
     "gatsby-source-filesystem": "^4.25.0",
-    "gatsby-transformer-remark": "^5.25.1",
+    "gatsby-transformer-remark": "^6.11.0",
     "gatsby-transformer-sharp": "^4.25.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
